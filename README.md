@@ -133,7 +133,7 @@ lista das rotas da API e quais são os corpos de solicitação esperados.
 
 **RESPONSE**
 
-```json
+```yaml
 No body returned for response
 ```
 
@@ -141,7 +141,7 @@ No body returned for response
 
 **RESPONSE**
 
-```json
+```yaml
 No body returned for response
 ```
 
